@@ -1,0 +1,2 @@
+# crypto
+Discord Crypto Bot
