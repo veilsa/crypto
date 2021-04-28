@@ -1,0 +1,17 @@
+{
+  "name": "veilsa-crypto",
+  "version": "1.0.0",
+  "description": "crypto bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Veilsa",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "crypto-price": "0.0.6",
+    "discord.js": "^12.5.3",
+    "request": "^2.88.2",
+    "table": "^6.0.9"
+  }
+}

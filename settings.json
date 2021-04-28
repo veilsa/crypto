@@ -1,0 +1,7 @@
+{
+    "guildid":"30snde bir atılacak sunucu id",
+    "channelid":"30snde bir atılacak kanal id",
+    "token":"bot token",
+    "prefix":"bot öneki",
+    "oynuyor":"botun durumu"
+}
